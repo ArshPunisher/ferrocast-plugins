@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "com.ferrocast.example.scanlines",
+      "name": "Scanlines",
+      "version": "1.0.0",
+      "author": "Ferrocast",
+      "description": "Thin lines across the picture, like an old monitor.",
+      "kind": "effect",
+      "actions": [],
+      "url": "plugins/com.ferrocast.example.scanlines-1.0.0.zip",
+      "sha256": "11e8588f3f8de54a0a77865054bc2ffe4995f7a5d7cd258d40ee436900698416",
+      "size": 909
+    }
+  ]
+}
